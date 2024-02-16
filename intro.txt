@@ -1,1 +1,2 @@
 Hello Class it's good to learn Github
+This is a new line
